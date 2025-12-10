@@ -23,9 +23,3 @@ In my journey through the ever-evolving landscape of IT, I've honed my skills no
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isbhuvan&theme=dark&background=000000)](https://git.io/streak-stats) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isbhuvan&layout=compact&theme=dark&background=000000)
