@@ -1,14 +1,48 @@
-## Hi there 👋
+## 👋 Hi, I’m Bhuvaneshwaran S
 
-I'm Bhuvan, a 30-year-old IT enthusiast with over 8 years of hands-on experience in the dynamic realm of Cloud engineering and automation.
+I am a Cloud and Platform Engineer with over ten years of hands-on experience designing, building, and operating scalable cloud infrastructure across **Azure, AWS, and GCP**. My core expertise lies in **Infrastructure as Code (IaC)**, **cloud-native architectures**, and **automation at scale**.
 
-I currently work at Cognizant, where I spend most of my time working with awesome people as Cloud Engineer. 
+### 🔧 What I Work On
 
-In my journey through the ever-evolving landscape of IT, I've honed my skills not just as a proficient Cloud engineer but as a dedicated worker and relentless learner. My passion for technology is not just a profession; it's a continuous adventure, and I'm always eager to explore new horizons.
+* Designing enterprise-grade cloud architectures
+* Building reusable **Terraform modules** aligned with organizational standards
+* Implementing **GitOps** workflows for cloud resource management
+* Developing automation and tooling using **Go**, **Python**, **PowerShell**, and **Bash**
+* Working extensively with **Docker**, **Kubernetes**, and managed Kubernetes services
+* Creating CI/CD pipelines and GitHub Actions to streamline infrastructure and platform operations
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🧠 Areas of Interest
+
+* Platform engineering and internal developer platforms (IDPs)
+* Terraform Enterprise / Cloud workflows and governance
+* Kubernetes operations and deployment strategies
+* Cloud automation, tooling, and developer productivity
+
+---
+
+### 🎓 Certifications
+
+* HashiCorp Terraform Associate
+* Microsoft Azure Architect
+
+---
+
+### 📚 What You’ll Find Here
+
+This profile and associated repositories include:
+
+* Terraform modules and examples
+* Go-based automation tools and GitHub Actions
+* Reference implementations for cloud and Kubernetes architectures
+* Notes, experiments, and best practices from real-world projects
+
+I enjoy building clean, maintainable systems and sharing practical solutions that scale well in enterprise environments.
+
+---
+
+### 🛠️ Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="amazonwebservices" alt="amazonwebservices" width="40" height="40"/>&nbsp;
@@ -21,5 +55,14 @@ In my journey through the ever-evolving landscape of IT, I've honed my skills no
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 🤝 Get in Touch
+
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/isbhuvan](https://www.linkedin.com/in/isbhuvan)
+* 💻 **GitHub:** [https://github.com/isbhuvan](https://github.com/isbhuvan)
+* 🐦 **X (Twitter):** [https://x.com/isbhuvan](https://x.com/isbhuvan)
+* 📝 **Medium:** [https://medium.com/@isbhuvan](https://medium.com/@isbhuvan)
 
 ---
