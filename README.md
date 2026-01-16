@@ -1,8 +1,9 @@
-## 👋 Hi, I’m Bhuvaneshwaran S
+# 👋 Hi, I’m Bhuvaneshwaran S
 
-I am a Cloud and Platform Engineer with over ten years of hands-on experience designing, building, and operating scalable cloud infrastructure across **Azure, AWS, and GCP**. My core expertise lies in **Infrastructure as Code (IaC)**, **cloud-native architectures**, and **automation at scale**.
+I am a Cloud and Platform Engineer with over ten years of hands-on experience designing, building, and operating scalable cloud infrastructure across **Azure, AWS, and GCP**.
+My core expertise lies in **Infrastructure as Code (IaC)**, **cloud-native architectures**, and **automation at scale**.
 
-### 🔧 What I Work On
+## 🔧 What I Work On
 
 * Designing enterprise-grade cloud architectures
 * Building reusable **Terraform modules** aligned with organizational standards
@@ -13,7 +14,7 @@ I am a Cloud and Platform Engineer with over ten years of hands-on experience de
 
 ---
 
-### 🧠 Areas of Interest
+## 🧠 Areas of Interest
 
 * Platform engineering and internal developer platforms (IDPs)
 * Terraform Enterprise / Cloud workflows and governance
@@ -22,14 +23,14 @@ I am a Cloud and Platform Engineer with over ten years of hands-on experience de
 
 ---
 
-### 🎓 Certifications
+## 🎓 Certifications
 
 * HashiCorp Terraform Associate
 * Microsoft Azure Architect
 
 ---
 
-### 📚 What You’ll Find Here
+## 📚 What You’ll Find Here
 
 This profile and associated repositories include:
 
@@ -42,7 +43,7 @@ I enjoy building clean, maintainable systems and sharing practical solutions tha
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="amazonwebservices" alt="amazonwebservices" width="40" height="40"/>&nbsp;
@@ -58,7 +59,7 @@ I enjoy building clean, maintainable systems and sharing practical solutions tha
 
 ---
 
-### 🤝 Get in Touch
+## 🤝 Get in Touch
 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/isbhuvan](https://www.linkedin.com/in/isbhuvan)
 * 💻 **GitHub:** [https://github.com/isbhuvan](https://github.com/isbhuvan)
